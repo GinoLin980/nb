@@ -10,7 +10,7 @@ import pyautogui
 import pydirectinput as di
 
 
-bot_token = "MTEzMjg1ODk2ODg4MDk5MjM1Nw.GlASIQ.scaFc0NiPxWqpEPfWIRBH7hZ7amLMdKm0JxP_g"
+bot_token = "YOUR_TOKEN"
 
 intents = discord.Intents.all()
 intents.guilds = True
